@@ -1,8 +1,6 @@
 # refactor-homework
 
-For this assignment the code was "wet"
+This week for Module 1 our mission was to refactor code that was given to us and condense it down to a 
+simpler and easier form to read.
 
-I "dried" up the code by simplifiying the code in css because there were too many repeating classes that could 
-be narrowed down to one class.
-
-I was able to do this to many differnet classed without changing or encountering any bugs wihin the website.
+I edited the HTML to have less <div> and renamed the CSS classes and reordered them in a way to match the HTML file
